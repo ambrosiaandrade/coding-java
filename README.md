@@ -6,7 +6,7 @@ In this repository I am practicing coding
 
 <img src="assets/Inspiration.jpg" />
 
-## Projetcs
+## Projects
 
 ### Tic tac toe
 
